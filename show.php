@@ -78,7 +78,7 @@ if($total != 0)
 
                 <td>$result[fname]"."</td> 
                 <td>$result[lname]"."</td> 
-                <td>$result[password]"."</td> 
+                <td>$result[password]"."</td> t
                 <td>$result[conpassword]"."</td>
                 <td>$result[gender]"."</td>
                 <td>$result[email]"."</td>
